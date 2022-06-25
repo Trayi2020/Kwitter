@@ -1,0 +1,40 @@
+body{
+    background-color: #0097e6;
+}
+#i1{
+    height:70px;
+    width:70px;
+}
+#i2{
+    height:110px;
+    width:110px;
+    border-radius: 200px;
+}
+#T_1{
+    background-color: #74b9ff;
+    border-radius: 90px;
+    height:400px;
+    width: 700px;
+}
+#T_2{
+    background-color: #0984e3;
+    height: 110px;
+}
+#b1{
+  background-color: red;
+    margin-left:1200px;
+    height:40px;
+}
+#b2{
+    background-color:#feca57;
+    height:40px;
+    
+}
+#room_name{
+    width:400px;
+}
+h4{
+    color:white;
+    height: 50px;
+    width: 30px;
+}
